@@ -10,7 +10,14 @@
   "help": "",
   "url": "",
   "logo": "",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "id": "23ebd065-b289-4a68-85e3-b8410e360157",
+      "name": "SharePoint Connector",
+      "publisher": "hougaard.com",
+      "version": "5.0.0.283"
+    }
+  ],
   "screenshots": [],
   "platform": "1.0.0.0",
   "application": "22.0.0.0",
